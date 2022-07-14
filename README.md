@@ -5,10 +5,9 @@
 <div align="center">
 
 
-  <img  width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Guilherme Carlos da Silva" />
-  <img   width="450" src="![f](https://user-images.githubusercontent.com/99884946/179120324-3419e867-8200-4ddb-a6d5-6461386bf3ad.gif)" alt="Guilherme Carlos da Silva" />
+<img   width="450" src="![f](https://user-images.githubusercontent.com/99884946/179120324-3419e867-8200-4ddb-a6d5-6461386bf3ad.gif)" alt="Guilherme Carlos da Silva" />
   
-![f](https://user-images.githubusercontent.com/99884946/179120324-3419e867-8200-4ddb-a6d5-6461386bf3ad.gif)
+
 
 
 
