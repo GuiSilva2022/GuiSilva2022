@@ -58,7 +58,7 @@ Social Networking </h1>
 </a>
   
   
-   <a href="https://discordapp.com/users/690241156792975377/" target="_blank">
+   <a href="https:" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
 </a>
   
