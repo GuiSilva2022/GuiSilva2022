@@ -13,21 +13,6 @@
 </div>
 
 
-
-
-Here are some ideas to get you started:
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--
-->
-
-
 <br/>
 <div align="center">
   <a href="https://github.com/GuiSilva2022">
