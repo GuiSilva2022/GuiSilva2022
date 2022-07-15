@@ -52,22 +52,18 @@ Social Networking </h1>
   
    
 <p align="center" style="background:yellow">
-<a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-carlos-554b0a230/" target="_blank">
 </a>
-<a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-carlos-554b0a230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/nogueira_dev/" target="_blank">
+<a href="https://www.instagram.com/gui_silvasrs/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
   
   
    <a href="https://discordapp.com/users/690241156792975377/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
-  
-  <a href="https://www.youtube.com/channel/UCPhZgWJGIMvDvdOb0eDhk1w" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
   
 </p>
@@ -81,9 +77,7 @@ Social Networking </h1>
  <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
  <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
    <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-   <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
    <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
    <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
    <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-
   </p>
