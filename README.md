@@ -5,10 +5,9 @@
 <div align="center">
 
 
-  <img  width="400" src="https://https://github.com/GuiSilva2022/Guilherme-Carlos-da-Silva/blob/main/name.svg" alt="Guilherme Carlos da Silva" />
-  <img   width="450" src="https://https://github.com/GuiSilva2022/Guilherme-Carlos-da-Silva/blob/main/imagem%20f.gif" alt="Guilherme Carlos da Silva" />
+  <img  width="400" src="https://https://github.com/GuiSilva2022/GuiSilva2022/blob/main/name.svg" alt="Guilherme Carlos da Silva" />
+  <img   width="450" src="https://https://github.com/GuiSilva2022/GuiSilva2022/blob/main/Imagens/f.gif" alt="Guilherme Carlos da Silva" />
   
-
 
   
 </div>
