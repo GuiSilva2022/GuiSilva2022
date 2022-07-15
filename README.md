@@ -4,8 +4,7 @@
 
 <div align="center">
 
-  <img  width="250" ![f](https://user-images.githubusercontent.com/99884946/179122413-91262698-a494-47fa-bf6a-e1914616f79c.gif)/>
-
+   ![f](https://user-images.githubusercontent.com/99884946/179122413-91262698-a494-47fa-bf6a-e1914616f79c.gif)
 
   
 </div>
