@@ -6,7 +6,7 @@
 
 
   <img  width="400" src="https://https://github.com/GuiSilva2022/GuiSilva2022/blob/main/name.svg" alt="Guilherme Carlos da Silva" />
-  <img   width="450" src="https://https://github.com/GuiSilva2022/GuiSilva2022/blob/main/Imagens/f.gif" alt="Guilherme Carlos da Silva" />
+  <img  width="450" src="https://https://github.com/GuiSilva2022/GuiSilva2022/blob/main/Imagens/f.gif" alt="Guilherme Carlos da Silva" />
   
 
   
@@ -34,14 +34,13 @@ Here are some ideas to get you started:
 
 <br/>
 <div align="center">
-  <a href="https://github.com/PedroNB10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNB10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNB10&layout=compact&langs_count=7&theme=algolia"/> 
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=PedroNB10&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://github.com/GuiSilva2022">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSilva2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva2022&layout=compact&langs_count=7&theme=algolia"/> 
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=GuiSilva2022&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   
 </div>
